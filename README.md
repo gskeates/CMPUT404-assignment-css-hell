@@ -17,11 +17,11 @@ Part 1
 
 Project Gutenberg Files
 
--Book 1 - Frankenstein         - https://www.gutenberg.org/files/84/84-h/84-h.htm
+- Book 1 - Frankenstein         - https://www.gutenberg.org/files/84/84-h/84-h.htm
 
--Book 2 - Pride and Prejudice  - https://www.gutenberg.org/files/1342/1342-h/1342-h.htm
+- Book 2 - Pride and Prejudice  - https://www.gutenberg.org/files/1342/1342-h/1342-h.htm
 
--Book 3 - A Tale of Two Cities - https://www.gutenberg.org/files/98/98-h/98-h.htm
+- Book 3 - A Tale of Two Cities - https://www.gutenberg.org/files/98/98-h/98-h.htm
 
 Changes Made to HTML Files
 
