@@ -1,12 +1,3 @@
-/* Steps:
-
-2) Color gradient title
-8) HTML - fill out information
-9) How to cite sources? Licensing?
-
-
-*/
-
 body {
   /* Stolen from Elly https://stackoverflow.com/users/13476050/elly
   From Stackoverflow
@@ -31,7 +22,8 @@ img {
 }
 
 h1 {
-  /* Sources: https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient() */
+  /* From Mozilla Developer Network
+  From https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient() */
   background: linear-gradient(to right, green, yellow, orange, red, purple);
 }
 
@@ -41,7 +33,8 @@ h1 {
   justify-content: center;
   background-color: blue;
   height: 10em;
-  /* Source: https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient() */
+  /* From Mozilla Developer Network
+  From https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient() */
   background-image: radial-gradient(farthest-corner at 0px 0px, white 0%, blue 100%);
 }
 
