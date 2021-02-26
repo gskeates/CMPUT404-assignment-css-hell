@@ -27,7 +27,8 @@ img {
   justify-content: center;
   background-color: blue;
   height: 10em;
-  /* Source: https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient() */
+  /* From Mozilla Developer Network
+  From https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient() */
   background: radial-gradient(rgb(70, 149, 199), blue);
 }
 
