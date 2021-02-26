@@ -23,9 +23,9 @@ Book 3 - A Tale of Two Cities - https://www.gutenberg.org/files/98/98-h/98-h.htm
 
 Changes Made to HTML Files
 
-# The CSS from each file was completely removed, and replaced with a custom style. (ie all CSS found on each html file was made by Graeme)
+- The CSS from each file was completely removed, and replaced with a custom style. (ie all CSS found on each html file was made by Graeme)
 
-# The directory that stored the images was renamed 'images', and hence the HTML was updated to reflect this change.
+- The directory that stored the images was renamed 'images', and hence the HTML was updated to reflect this change.
 
 
 Custom Style Explanation
