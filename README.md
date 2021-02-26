@@ -30,13 +30,13 @@ Changes Made to HTML Files
 
 Custom Style Explanation
 
-# Background of body was changed to a yellowish color
-# Headers centered, given a fancy font
-# Paragraphs centered, and the text was justified
-# Paragraphs were given a less fancy font
-# The first letter of every paragraph is twice as large and has the extra fancy font
-# Images were centered, and given a 'ridge' border
-# Links were centered, colored grey instead of blue, and made to turn red when the mouse hovers over them
+- Background of body was changed to a yellowish color
+- Headers centered, given a fancy font
+- Paragraphs centered, and the text was justified
+- Paragraphs were given a less fancy font
+- The first letter of every paragraph is twice as large and has the extra fancy font
+- Images were centered, and given a 'ridge' border
+- Links were centered, colored grey instead of blue, and made to turn red when the mouse hovers over them
 
 
 
