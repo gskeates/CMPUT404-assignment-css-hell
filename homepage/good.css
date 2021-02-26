@@ -1,0 +1,86 @@
+body {
+  /* Stolen from Elly https://stackoverflow.com/users/13476050/elly
+  From Stackoverflow
+  From https://stackoverflow.com/a/61617463 */
+  margin: 0;
+  font-family: 'Courier New', monospace;
+}
+
+li {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  height: 12em;
+  width: 8em;
+}
+
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: blue;
+  height: 10em;
+  /* Source: https://developer.mozilla.org/en-US/docs/Web/CSS/radial-gradient() */
+  background: radial-gradient(rgb(70, 149, 199), blue);
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2A2A2A;
+  height: 2em;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+
+.main {
+  width: 80%;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 3em;
+}
+
+.sidebar {
+  float: right;
+  width: 20%;
+  background-color: #D3D3D3;
+  text-align: center;
+}
+
+.facts li {
+  position: relative;
+  left: -1em;
+}
+
+#points-title {
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+}
+
+#image-container {
+  margin-right: 1em;
+}
